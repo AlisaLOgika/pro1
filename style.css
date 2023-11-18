@@ -1,0 +1,31 @@
+body{text-align: center;
+font-family:cursive;}
+p{font-size:20px}
+img{border-left:10px dotted grey ;
+border-right:10px dotted rosybrown;}
+table{font-family:segoe print;
+text-align: center;
+border-collapse:collapse;
+background:#ece9e0;
+color:#FAF39E;
+border:16px solid #ece9e0;
+border-radius: 20px;margin-left:200px;margin-bottom: 50px;}
+
+td{background: #AA422C;padding: 10px;}
+a {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    border: 3px solid #FAF39E;
+    
+    text-decoration: none;border-radius: 10px;padding: 10px;margin-top:150px;
+}
+.pi{background-color:aquamarine;}
+.pii{background-color: darkmagenta;}
+span{background-color: #c97a99;}
+.h2{font-family:Impact;
+
+background-color:khaki ;}
+
+.site{font-family:Impact;background-color: lightcyan;}
+.h3{background-color:#e6b8a3 ;}
